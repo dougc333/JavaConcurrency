@@ -1,0 +1,4 @@
+MultiThreaded Crawler using JSR166 libraries, compare performance vs. Nutch crawler which is faster
+There are design issues at the higher level. 
+
+Better to create your own blocking queues and thread pools? 
