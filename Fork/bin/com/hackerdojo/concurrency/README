@@ -1,0 +1,18 @@
+Fork is a test of the Fork Join Framework to appear in Java7
+Fork is a thread version of map reduce. 
+
+CensusData.java
+CensusGroup.java
+PopulationQuery.java
+Rectangle.java
+are part of Dan Grossman's Fork Join homework projects on Concurrency at the University Of Washington
+http://www.cs.washington.edu/homes/djg/teachingMaterials/
+
+SumArray.java
+SumArrayRecursive.java is a test of recursive task
+
+TestApplyer.java is a test of recursive action. 
+
+TestSortClass is a test of a fork join version of merge sort. 
+
+This project is synchronized using Maven. 
